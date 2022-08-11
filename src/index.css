@@ -123,7 +123,7 @@ color: white;
 }
 
 
-@media screen and (max-width:650px) {
+@media screen and (max-width:600px) {
  
    .navbar {
       max-width: 100%;
@@ -132,6 +132,8 @@ color: white;
 
   .close {
       display: block;
+      width: 15vh; 
+
       
   }
 
@@ -459,7 +461,7 @@ justify-content: center;
   .container {
     position: relative;
     margin-bottom: 50px;
-    height: 600px;
+    height: 800px;
   }
 
   .overlaytext{
