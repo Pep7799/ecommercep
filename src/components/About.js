@@ -9,7 +9,7 @@ const About = () => {
     
       <div className='container' id='about'>
         <video loop autoPlay muted>
-            <source src= {bgvid} type = "video/mp4"/>
+            <source className='vidd' src= {bgvid} type = "video/mp4"/>
         </video>
     
       <div>
